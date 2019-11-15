@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tugasakhir">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".LihatArtikel"></activity>
+        <activity android:name=".DetailDestinasi8" />
+        <activity android:name=".DetailDestinasi7" />
+        <activity android:name=".DetailDestinasi6" />
+        <activity android:name=".DetailDestinasi5" />
+        <activity android:name=".DetailDestinasi4" />
+        <activity android:name=".DetailDestinasi3" />
+        <activity android:name=".DetailDestinasi2" />
+        <activity android:name=".DetailDestinasi1" />
+        <activity android:name=".DetailRestoran5" />
+        <activity android:name=".DetailRestoran4" />
+        <activity android:name=".DetailRestoran3" />
+        <activity android:name=".DetailRestoran2" />
+        <activity android:name=".DetailRestoran1" />
+        <activity android:name=".DetailHotel5" />
+        <activity android:name=".DetailHotel4" />
+        <activity android:name=".DetailHotel3" />
+        <activity android:name=".DetailHotel2" />
+        <activity android:name=".DetailHotel" />
+        <activity android:name=".DetailArtikel5" />
+        <activity android:name=".DetailArtikel4" />
+        <activity android:name=".DetailArtikel3" />
+        <activity android:name=".DetailArtikel2" />
+        <activity android:name=".DetailArtikel1" />
+        <activity android:name=".DetailGuide5" />
+        <activity android:name=".DetailGuide4" />
+        <activity android:name=".DetailGuide3" />
+        <activity android:name=".DetailGuide2" />
+        <activity android:name=".DetailGuide1" />
+        <activity android:name=".Artikel" />
+        <activity android:name=".Profile" />
+        <activity android:name=".CariRestoran" />
+        <activity android:name=".CariHotel" />
+        <activity android:name=".CariDestinasi" />
+        <activity android:name=".CariGuide" />
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

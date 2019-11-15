@@ -1,0 +1,439 @@
+<resources>
+    <string name="app_name">Jelajah Bogor</string>
+
+    <string name="artikel">Artikel</string>
+    <string name="profil">Profil Saya</string>
+
+    <string name="guide">Pemandu Wisata</string>
+    <string name="DestinasiWisata">Destinasi Wisata</string>
+    <string name="Hotel">Hotel</string>
+    <string name="Restoran">Restoran</string>
+    <string name="todo">todo</string>
+    <string name="logout">Logout</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+    <string name="address" />
+    <string name="user1">Fauzan Rusdi</string>
+    <string name="hallo_this_is_me">Hallo, Silahkan hubungi saya untuk info lebih lanjut</string>
+
+    //tabel guide
+    <string name="id_pw1">011019001</string>
+    <string name="nama_guide1">Fauzan Rusdi</string>
+    <string name="bahasa_guide1">Indonesia, Inggris</string>
+    <string name="harga_guide1">Mulai Dari Rp. 100.000</string>
+    <string name="keterangan_guide1">saya adalah...............</string>
+
+
+    <string name="id_pw2">011019002</string>
+    <string name="nama_guide2">Shalzaviera</string>
+    <string name="bahasa_guide2">Indonesia, Inggris</string>
+    <string name="keterangan_guide2">saya adalah...............</string>
+
+
+    <string name="id_pw3">011019003</string>
+    <string name="nama_guide3">Muhammad Farhan</string>
+    <string name="bahasa_guide3">Indonesia, Inggris</string>
+    <string name="keterangan_guide3">saya adalah...............</string>
+
+    <string name="id_pw4">011019004</string>
+    <string name="nama_guide4">Sharah Fadilah</string>
+    <string name="bahasa_guide4">Indonesia, Inggris</string>
+    <string name="keterangan_guide4">saya adalah...............</string>
+
+    <string name="id_pw5">011019005</string>
+    <string name="nama_guide5">Taufik Hermawan</string>
+    <string name="bahasa_guide5">Indonesia, Inggris</string>
+    <string name="keterangan_guide5">saya adalah...............</string>
+
+    //DATA DESTINASI
+    <string name="kode_destinasi1">1201</string>
+    <string name="nama_destinasi1">Kebun Raya Bogor</string>
+    <string name="alamat_destinasi1">Jl. Ir. H. Juanda no. 13, Bogor 16122 Indonesia</string>
+    <string name="nomor_telpon_destinasi1">(0251) 8311362</string>
+    <string name="jam_buka_destinasi1">08.00-17.00 WIB</string>
+    <string name="harga_tiketmasuk_destinasi1">Rp15.000</string>
+    <string name="rute_stasiun_destinasi1">Naik Angkot 02 Jurusan Kebun Raya Bogor</string>
+    <string name="rute_terminal_destinasi1">Naik Angkutan Umum 32 Jurusan Tanah Baru</string>
+
+
+    <string name="kode_destinasi2">1202</string>
+    <string name="nama_destinasi2">Istana Bogor</string>
+    <string name="alamat_destinasi2">Jalan Ir. H. Juanda, Paledang, Bogor Tengah, Kota Bogor, Jawa Barat</string>
+    <string name="nomor_telpon_destinasi2">+62 251 8322187</string>
+    <string name="jam_buka_destinasi2">08.00-16.00 WIB</string>
+    <string name="harga_tiketmasuk_destinasi2">Gratis</string>
+    <string name="rute_stasiun_destinasi2">Naik Angkot 02 Jurusan Istana Bogor</string>
+    <string name="rute_terminal_destinasi2">Naik Angkutan Umum 10 Jurusan Istana Bogor</string>
+
+
+    <string name="kode_destinasi3">1203</string>
+    <string name="nama_destinasi3">Little Venice Kota Bunga Puncak Bogor</string>
+    <string name="alamat_destinasi3">Jalan Hanjawar Pacet Desa Batuwalang, Cipanas, Jawa Barat</string>
+    <string name="nomor_telpon_destinasi3">(0263) 580511</string>
+    <string name="jam_buka_destinasi3">08.00 - 16.00 WIB</string>
+    <string name="harga_tiketmasuk_destinasi3">Akhir pekan, Rp30.000 untuk anak-anak dan Rp40.000 untuk dewasa</string>
+    <string name="rute_stasiun_destinasi3">Naik Angkot 02 Jurusan Kebun Raya Bogor</string>
+    <string name="rute_terminal_destinasi3">Naik Angkutan Umum 32 Jurusan Tanah Baru</string>
+
+
+    <string name="kode_destinasi4">1204</string>
+    <string name="nama_destinasi4">Curug Bidadari Sentul Paradise Park</string>
+    <string name="alamat_destinasi4">Jalan Sentul Paradise Park, Bojong Koneng, Babakan Madang, Bogor.</string>
+    <string name="nomor_telpon_destinasi4">(0263) 580511</string>
+    <string name="jam_buka_destinasi4">08.00 - 17.00 WIB</string>
+    <string name="harga_tiketmasuk_destinasi4">	Rp25.000</string>
+    <string name="rute_stasiun_destinasi4">Naik Angkot 02 Jurusan Kebun Raya Bogor</string>
+    <string name="rute_terminal_destinasi4">Naik Angkutan Umum 32 Jurusan Tanah Baru</string>
+
+
+    <string name="kode_destinasi5">1205</string>
+    <string name="nama_destinasi5">Gunung Pancar</string>
+    <string name="alamat_destinasi5">	Kecamatan Citeureup, Kabupaten Bogor, Jawa Barat</string>
+    <string name="nomor_telpon_destinasi5">+62 251 8322187</string>
+    <string name="jam_buka_destinasi5">24 Jam</string>
+    <string name="harga_tiketmasuk_destinasi5">Biaya parkir sekitar Rp5.000 untuk motor dan Rp10.000 untuk mobil.</string>
+    <string name="rute_stasiun_destinasi5">Naik Angkot 02 Jurusan Kebun Raya Bogor</string>
+    <string name="rute_terminal_destinasi5">Naik Angkutan Umum 32 Jurusan Tanah Baru</string>
+
+
+    <string name="kode_destinasi6">1206</string>
+    <string name="nama_destinasi6">Curug Bengkok Leuwi Hejo</string>
+    <string name="alamat_destinasi6">	Cibadak, Sukamakmur, Cibadak, Sukamakmur, Bogor, Jawa Barat</string>
+    <string name="nomor_telpon_destinasi6">+62 251 8322187</string>
+    <string name="jam_buka_destinasi6">08.00 - 16.00 WIB</string>
+    <string name="harga_tiketmasuk_destinasi6">	Rp5.000</string>
+    <string name="rute_stasiun_destinasi6">Naik Angkot 02 Jurusan Kebun Raya Bogor</string>
+    <string name="rute_terminal_destinasi6">Naik Angkutan Umum 32 Jurusan Tanah Baru</string>
+
+
+    <string name="kode_destinasi7">1207</string>
+    <string name="nama_destinasi7">Jungle Land Adventure Theme Park</string>
+    <string name="alamat_destinasi7">	Kawasan Sentul Nirwana, Jalan Jungleland Boulevard No. 1, Karang Tengah, Babakan Madang, Bogor, Jawa Barat</string>
+    <string name="nomor_telpon_destinasi7">+62 251 8322187</string>
+    <string name="jam_buka_destinasi7">	10.00-22.00 WIB</string>
+    <string name="harga_tiketmasuk1_destinasi7">Rp125.000 hari biasa dan Rp175.000 akhir pekan.</string>
+    <string name="rute_stasiun_destinasi7">Naik Angkot 02 Jurusan Kebun Raya Bogor</string>
+    <string name="rute_terminal_destinasi7">Naik Angkutan Umum 32 Jurusan Tanah Baru</string>
+
+
+    <string name="kode_destinasi8">1208</string>
+    <string name="nama_destinasi8">Penangkaran Rusa Giri Jaya Cariu Bogor</string>
+    <string name="alamat_destinasi8">Buanajaya, Tanjungsari, Buanajaya, Tanjungsari, Bogor, Jawa Barat</string>
+    <string name="nomor_telpon_destinasi8">+62 251 8322187</string>
+    <string name="jam_buka_destinasi8">	07.00-15.00 WIB</string>
+    <string name="harga_tiketmasuk_destinasi8">	Rp2.500 untuk penangkaran dan Rp3.000 untuk bumi perkemahan.</string>
+    <string name="rute_stasiun_destinasi8">Naik Angkot 02 Jurusan Kebun Raya Bogor</string>
+    <string name="rute_terminal_destinasi8">Naik Angkutan Umum 32 Jurusan Tanah Baru</string>
+
+    // DATA HOTEL
+
+    <string name="kode_hotel1">1101</string>
+    <string name="nama_hotel1">Padjadjaran Suites Hotel and Conference</string>
+    <string name="alamat_hotel1">Jl. Ir. H. Juanda no. 13, Bogor 16122 Indonesia</string>
+    <string name="nomor_hotel1">+62 251 8322187</string>
+    <string name="jam_buka_hotel1">08.00 - 16.00 WIB</string>
+    <string name="harga_hotel1">Mulai Dari Rp. 1.000.000 per malam</string>
+    <string name="rute_stasiun_hotel1">Naik Angkot 02 Jurusan Kebun Raya Bogor</string>
+    <string name="rute_terminal_hotel1">Naik Angkutan Umum 32 Jurusan Tanah Baru</string>
+
+
+    <string name="kode_hotel2">1102</string>
+    <string name="nama_hotel2">HARRIS Hotel Sentul City Bogor</string>
+    <string name="alamat_hotel2">Jl. Ir. H. Juanda no. 13, Bogor 16122 Indonesia</string>
+    <string name="harga_hotel2">Mulai Dari Rp. 1.000.000 per malam</string>
+    <string name="nomor_hotel2">+62 251 8322187</string>
+    <string name="jam_buka_hotel2">08.00 - 16.00 WIB</string>
+    <string name="harga_tiketmasuk_hotel2">Gratis</string>
+    <string name="rute_stasiun_hotel2">Naik Angkot 02 Jurusan Kebun Raya Bogor</string>
+    <string name="rute_terminal_hotel2">Naik Angkutan Umum 32 Jurusan Tanah Baru</string>
+
+    <string name="kode_hotel3">1103</string>
+    <string name="nama_hotel3">THE 1O1 Bogor Suryakancana Hotel</string>
+    <string name="alamat_hotel3">Jl. Ir. H. Juanda no. 13, Bogor 16122 Indonesia</string>
+    <string name="harga_hotel3">Mulai Dari Rp. 1.000.000 per malam</string>
+    <string name="nomor_telpon_hotel3">+62 251 8322187</string>
+    <string name="jam_buka_hotel3">08.00 - 16.00 WIB</string>
+    <string name="rute_stasiun_hotel3">Naik Angkot 02 Jurusan Kebun Raya Bogor</string>
+    <string name="rute_terminal_hotel3">Naik Angkutan Umum 32 Jurusan Tanah Baru</string>
+
+    <string name="kode_hotel4">1104</string>
+    <string name="nama_hotel4"> Hotel Salak The Heritager</string>
+    <string name="alamat_hotel4">Jl. Ir. H. Juanda no. 13, Bogor 16122 Indonesia</string>
+    <string name="harga_hotel4">Mulai Dari Rp. 1.000.000 per malam</string>
+    <string name="nomor_telpon_hote4">+62 251 8322187</string>
+    <string name="jam_buka_hote4">08.00 - 16.00 WIB</string>
+    <string name="rute_stasiun_hotel4">Naik Angkot 02 Jurusan Kebun Raya Bogor</string>
+    <string name="rute_terminal_hotel4">Naik Angkutan Umum 32 Jurusan Tanah Baru</string>
+
+    <string name="kode_hotel5">1105</string>
+    <string name="nama_hotel5">Salak Tower Hotel</string>
+    <string name="alamat_hotel5">Jl. Ir. H. Juanda no. 13, Bogor 16122 Indonesia</string>
+    <string name="harga_hotel5">Mulai Dari Rp. 1.000.000 per malam</string>
+    <string name="nomor_telpon_hotel5">+62 251 8322187</string>
+    <string name="jam_buka_hotel5">08.00 - 16.00 WIB</string>
+    <string name="rute_stasiun_hotel5">Naik Angkot 02 Jurusan Kebun Raya Bogor</string>
+    <string name="rute_terminal_hotel5">Naik Angkutan Umum 32 Jurusan Tanah Baru</string>
+
+    <string name="kode_hotel6">1106</string>
+    <string name="nama_hotel6">Aston Sentul Lake Resort and Conference Center</string>
+    <string name="alamat_hotel6">Jl. Ir. H. Juanda no. 13, Bogor 16122 Indonesia</string>
+    <string name="harga_hotel6">Mulai Dari Rp. 1.000.000 per malam</string>
+    <string name="nomor_telpon_hotel6">+62 251 8322187</string>
+    <string name="jam_buka_hotel6">08.00 - 16.00 WIB</string>
+    <string name="rute_stasiun_hotel6">Naik Angkot 02 Jurusan Kebun Raya Bogor</string>
+    <string name="rute_terminal_hotel6">Naik Angkutan Umum 32 Jurusan Tanah Baru</string>
+
+    <string name="kode_hotel7">1107</string>
+    <string name="nama_hotel7"> Grand Savero Hotel</string>
+    <string name="alamat_hotel7">Jl. Ir. H. Juanda no. 13, Bogor 16122 Indonesia</string>
+    <string name="harga_hotel7">Mulai Dari Rp. 1.000.000 per malam</string>
+    <string name="nomor_telpon_hotel7">+62 251 8322187</string>
+    <string name="jam_buka_hotel7">08.00 - 16.00 WIB</string>
+    <string name="rute_stasiun_hotel7">Naik Angkot 02 Jurusan Kebun Raya Bogor</string>
+    <string name="rute_terminal_hotel7">Naik Angkutan Umum 32 Jurusan Tanah Baru</string>
+
+    <string name="nama_hotel8"> Aston Bogor Hotel and Resort</string>
+    <string name="alamat_hotel8">Jl. Ir. H. Juanda no. 13, Bogor 16122 Indonesia</string>
+    <string name="nomor_telpon_hotel8">+62 251 8322187</string>
+    <string name="jam_buka_hotel8">08.00 - 16.00 WIB</string>
+    <string name="harga_hotel8">Mulai Dari Rp. 1.000.000 per malam</string>
+    <string name="rute_stasiun_hotel8">Naik Angkot 02 Jurusan Kebun Raya Bogor</string>
+    <string name="rute_terminal_hotel8">Naik Angkutan Umum 32 Jurusan Tanah Baru</string>
+
+    <string name="nama_hotel9">The Sahira Hotel</string>
+    <string name="alamat_hotel9">Jl. Ir. H. Juanda no. 13, Bogor 16122 Indonesia</string>
+    <string name="nomor_telpon_hotel9">+62 251 8322187</string>
+    <string name="jam_buka_hotel9">08.00 - 16.00 WIB</string>
+    <string name="harga_hotel9">Mulai Dari Rp. 1.000.000 per malam</string>
+    <string name="rute_stasiun_hotel9">Naik Angkot 02 Jurusan Kebun Raya Bogor</string>
+    <string name="rute_terminal_hotel9">Naik Angkutan Umum 32 Jurusan Tanah Baru</string>
+
+    <string name="nama_hotel10">Kebun Raya Bogor</string>
+    <string name="alamat_hotel10">Jl. Ir. H. Juanda no. 13, Bogor 16122 Indonesia</string>
+    <string name="nomor_telpon_hotel10">+62 251 8322187</string>
+    <string name="jam_buka_hotel10">08.00 - 16.00 WIB</string>
+    <string name="harga_hotel10">Mulai Dari Rp. 1.000.000 per malam</string>
+    <string name="rute_stasiun_hotel10">Naik Angkot 02 Jurusan Kebun Raya Bogor</string>
+    <string name="rute_terminal_hotel10">Naik Angkutan Umum 32 Jurusan Tanah Baru</string>
+
+    // DATA RESTORAN
+    <string name="kode_restoran1">1101</string>
+    <string name="nama_restoran1">RM Bumi Aki</string>
+    <string name="alamat_restoran1">Jalan Raya Puncak Ciloto no. 59, Bogor 43253, Indonesia</string>
+    <string name="nomor_telpon_restoran1">+62 263 517711</string>
+    <string name="jam_buka_restoran1">08.00 - 16.00 WIB</string>
+    <string name="harga_restoran1">Mulai Dari Rp. 50.000</string>
+    <string name="rute_stasiun_restoran1">Naik Angkot 02 Jurusan Kebun Raya Bogor</string>
+    <string name="rute_terminal_restoran1">Naik Angkutan Umum 32 Jurusan Tanah Baru</string>
+
+    <string name="nama_restoran2">Deleuit Restaurant</string>
+    <string name="alamat_restoran2">Jl. Pakuan No.3, Baranangsiang, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16143</string>
+    <string name="nomor_telpon_restoran2">+62 251 8390011</string>
+    <string name="jam_buka_restoran2">08.00 - 16.00 WIB</string>
+    <string name="harga_restoran2">Mulai Dari Rp. 50.000</string>
+    <string name="rute_stasiun_restoran2">Naik Angkot 02 Jurusan Kebun Raya Bogor</string>
+    <string name="rute_terminal_restoran2">Naik Angkutan Umum 32 Jurusan Tanah Baru</string>
+
+    <string name="nama_restoran3">Cimory Riverside</string>
+    <string name="alamat_restoran3">Jl. Ir. H. Juanda no. 13, Bogor 16122 Indonesia</string>
+    <string name="nomor_telpon_restoran3">+62 251 8322187</string>
+    <string name="jam_buka_restoran3">08.00 - 16.00 WIB</string>
+    <string name="harga_restoran3">Mulai Dari Rp. 50.000</string>
+    <string name="rute_stasiun_restoran3">Naik Angkot 02 Jurusan Kebun Raya Bogor</string>
+    <string name="rute_terminal_restoran3">Naik Angkutan Umum 32 Jurusan Tanah Baru</string>
+
+    <string name="nama_restoran4">Kedai Kita</string>
+    <string name="alamat_restoran4">Jl. Ir. H. Juanda no. 13, Bogor 16122 Indonesia</string>
+    <string name="nomor_telpon_restoran4">+62 251 8322187</string>
+    <string name="jam_buka_restoran4">08.00 - 16.00 WIB</string>
+    <string name="harga_restoran4">Mulai Dari Rp. 50.000</string>
+    <string name="rute_stasiun_restoran4">Naik Angkot 02 Jurusan Kebun Raya Bogor</string>
+    <string name="rute_terminal_restoran4">Naik Angkutan Umum 32 Jurusan Tanah Baru</string>
+
+    <string name="nama_restoran5">Ngohiang Gang Aut</string>
+    <string name="alamat_restoran5">Jl. Ir. H. Juanda no. 13, Bogor 16122 Indonesia</string>
+    <string name="nomor_telpon_restoran5">+62 251 8322187</string>
+    <string name="jam_buka_restoran5">08.00 - 16.00 WIB</string>
+    <string name="harga_restoran5">Mulai Dari Rp. 50.000</string>
+    <string name="rute_stasiun_restoran5">Naik Angkot 02 Jurusan Kebun Raya Bogor</string>
+    <string name="rute_terminal_restoran5">Naik Angkutan Umum 32 Jurusan Tanah Baru</string>
+
+    <string name="nama_restoran6">Soto Mie Agih</string>
+    <string name="alamat_restoran6">Jl. Ir. H. Juanda no. 13, Bogor 16122 Indonesia</string>
+    <string name="nomor_telpon_restoran6">+62 251 8322187</string>
+    <string name="jam_buka_restoran6">08.00 - 16.00 WIB</string>
+    <string name="harga_restoran6">Mulai Dari Rp. 50.000</string>
+    <string name="rute_stasiun_restoran6">Naik Angkot 02 Jurusan Kebun Raya Bogor</string>
+    <string name="rute_terminal_restoran6">Naik Angkutan Umum 32 Jurusan Tanah Baru</string>
+
+    <string name="nama_restoran7">Restoran Rindu Alam Puncak</string>
+    <string name="alamat_restoran7">Jl. Ir. H. Juanda no. 13, Bogor 16122 Indonesia</string>
+    <string name="nomor_telpon_restoran7">+62 251 8322187</string>
+    <string name="jam_buka_restoran7">08.00 - 16.00 WIB</string>
+    <string name="harga_restoran7">Mulai Dari Rp. 50.000</string>
+    <string name="rute_stasiun_restoran7">Naik Angkot 02 Jurusan Kebun Raya Bogor</string>
+    <string name="rute_terminal_restoran7">Naik Angkutan Umum 32 Jurusan Tanah Baru</string>
+
+    <string name="nama_restoran8">Gili-Gili Restaurant</string>
+    <string name="alamat_restoran8">Jl. Ir. H. Juanda no. 13, Bogor 16122 Indonesia</string>
+    <string name="nomor_telpon_restoran8">+62 251 8322187</string>
+    <string name="jam_buka_restoran8">08.00 - 16.00 WIB</string>
+    <string name="harga_restoran8">Mulai Dari Rp. 50.000</string>
+    <string name="rute_stasiun_restoran8">Naik Angkot 02 Jurusan Kebun Raya Bogor</string>
+    <string name="rute_terminal_restoran8">Naik Angkutan Umum 32 Jurusan Tanah Baru</string>
+
+    <string name="nama_restoran9">Nicoles Kitchen and Lounge</string>
+    <string name="alamat_restoran9">Jl. Ir. H. Juanda no. 13, Bogor 16122 Indonesia</string>
+    <string name="nomor_telpon_restoran9">+62 251 8322187</string>
+    <string name="jam_buka_restoran9">08.00 - 16.00 WIB</string>
+    <string name="harga_restoran9">Mulai Dari Rp. 50.000</string>
+    <string name="rute_stasiun_restoran9">Naik Angkot 02 Jurusan Kebun Raya Bogor</string>
+    <string name="rute_terminal_restoran9">Naik Angkutan Umum 32 Jurusan Tanah Baru</string>
+
+    <string name="nama_restoran10">Rumah Air Bogor</string>
+    <string name="alamat_restoran10">Jl. Ir. H. Juanda no. 13, Bogor 16122 Indonesia</string>
+    <string name="nomor_telpon_restoran10">+62 251 8322187</string>
+    <string name="jam_buka_restoran10">08.00 - 16.00 WIB</string>
+    <string name="harga_restoran10">Mulai Dari Rp. 50.000</string>
+    <string name="rute_stasiun_restoran10">Naik Angkot 02 Jurusan Kebun Raya Bogor</string>
+    <string name="rute_terminal_restoran10">Naik Angkutan Umum 32 Jurusan Tanah Baru</string>
+
+    // ARTIKEL
+    <string name="judul_artikel1">8 Tips Mengatur Keuangan untuk yang Hobi Travelling</string>
+    <string name="penulis_artikel1">Nimas Arini</string>
+    <string name="text1_artikel1">
+        Belakangan ini berlibur ke suatu tempat baru sudah menjadi sebuah kebutuhan khusus.
+        Banyak yang rela menyisakan sebagian uangnya untuk merencanakan travelling dari jauh-jauh hari.
+        Walaupun waktu berlibur masih jauh budget travel juga harus mulai disusun dari jauh-jauh hari.
+        Berikut adalah 8 cara mengatur keuangan untuk kamu yang hobi travelling atau sedang merencanakan liburan :
+    </string>
+    <string name="text2_artikel1">
+        Kalau kamu memang sudah berniat untuk pergi liburan artinya kamu juga harus punya komitmen untuk menabung.
+        Salah satu caranya adalah langsung menyisihkan atau membagi gaji kami ke beberapa pos.
+        Kebanyakan orang menabung 10% gaji mereka untuk biaya berlibur.
+        Jadi enggak ada salahnya untuk langsung memisahkan biaya liburan di rekeningan tabunganmu.
+    </string>
+    <string name="text3_artikel1">
+       Berlibur memang membutuhkan banyak biaya terutama untuk transportasi.
+        Tiket pesawat menjadi salah satu penentu apakah kamu bisa berhemat selama travelling ke luar ataupun dalam negeri.
+        Beli lah tiket pesawat saat ada promosi karena harganya bisa sangat murah 50%-60% lebih murah.
+        Coba manfaatkan berbagai promosi di situs online dan promosi kartu kredit.
+    </string>
+    <string name="text4_artikel1">
+        Salah satu trik lain yang bisa membuat liburan murah adalah dengan memilih penginapan yang sesuai dengan budget-mu. Jadi mending dari awal kamu sudah membuat perincian soal budget hotel misalnya dalam satu hari biaya untuk menginap Rp 350 ribu.
+        Cara ini bisa membuat liburan murah meriah karena sebenarnya penginap hanya untuk tidur dan mandi saja kan. Coba pilih penginapan seperti hostel atau apartemen yang disewakan untuk menekan budget liburan.
+    </string>
+    <string name="text5_artikel1">
+       Membuat budget, itinerary perjalanan, dan menabung harus berjalan bersama-sama. Kalau kamu sudah buat itinerary kamu langsung bisa membuat daftar pengeluranmu selama berlibur. Nah,
+        kalau sudah tahu budget artinya kamu langsung bisa menabung dan mengira-ngira apakah liburanmu bisa terlaksana dalam waktu dekat.
+    </string>
+    <string name="text6_artikel1">
+        Sekarang enggak susah menemukan tempat wisata di negara laian karena kamu bisa melihat berbagai rekomendasinya di internet. Coba deh cari tempat wisata yang enggak membutuhkan tiket masuk. Tempat wisata murah ini jumlahnya banyak loh,
+        asal kamu jeli melihatnya tempat wisata murah ini kadang bisa lebih bagus dari tujuan wisata yang mainstream.
+    </string>
+    <string name="text7_artikel1">
+        Zaman sekarang yang serba online tiket museum atau atraksi di berbagai negara bisa dibeli dengan harga murah. Di situs-situs
+        online kamu bisa mendapatkan tiket tempat wisata murah dan kadang juga ada promo untuk beberapa tempat wisata. Menghemat biaya untuk tempat wisata juga bisa membuat liburan murah.
+    </string>
+    <string name="text8_artikel1">
+        Kalau kamu berniat untuk berlibur a la backpacker murah meriah, kamu juga harus cari informasi soal promosi khusus turis.
+        Promosi-promosi ini bisa sangat menguntungkan saat travelling. Beberapa kota bahkan menyediakan bis gratis untuk turis loh.
+    </string>
+    <string name="text9_artikel1">
+    Kalau mahasiswa atau masih pelajar hal ini bisa banget mengurangi budget itinerary yang sudah kamu buat. Biasanya museum-museum memberlakukan harga pelajar untuk tiket masuknya.
+        Tiket masuk museum di luar negeri harganya lumayan mahal kalau pakai kartu pelajar bisa diskon sampai 50% loh lumayan kan untuk ngirit selama travelling.
+    </string>
+
+
+    <string name="judul_artikel2">9 Tips Memilih Asuransi Perjalanan yang Perlu Kamu Ketahui</string>
+    <string name="penulis_artikel2">Ojan</string>
+    <string name="text1_artikel2">Melakukan perjalanan atau travelling adalah kegiatan yang menyenangkan. Selain dapat menghilangkan stress, travelling juga dapat memberikan kamu sudut pandang dan pengalaman baru yang berharga.
+    Selain itu, lewat travelling, kamu juga berkesempatan untuk belajar bahasa baru, bertemu dengan teman-teman baru, hingga mencicipi masakan-masakan baru yang sebelumnya tidak pernah kamu coba.
+    Meski begitu, melakukan travelling juga ada risikonya. Misal, seperti risiko tabrakan, pesawat jatuh, bus terperosok, dompet dan barang berharga dicuri, dan risiko-risiko lainnya yang bisa saja terjadi setiap saat ketika kamu melakukan perjalanan.
+    Oleh karena itu, untuk melindungi kamu dari kerugian finansial yang besar akibat terjadinya risiko tersebut, kamu disarankan untuk memiliki asuransi perjalanan. Dengan memiliki asuransi perjalanan, otomatis kamu jadi bisa menikmati setiap momen perjalanan kamu tanpa rasa khawatir lagi.
+    Pada artikel ini, ShopBack akan memberikan kamu informasi tentang pentingnya asuransi perjalanan, manfaatnya, serta 9 tips memilih asuransi perjalanan yang terbaik dan sesuai untuk kamu.
+
+        Penasaran? Yuk simak ulasannya berikut ini.</string>
+    <string name="text2_artikel2">
+        Seperti yang sudah disampaikan sebelumnya, asuransi perjalanan dapat memberikanmu perlindungan dari berbagai risiko tertentu yang terjadi selama perjalanan.
+
+Maka itu, kamu sangat disarankan untuk selalu dilengkapi dengan asuransi perjalanan ketika hendak melakukan travelling, baik di dalam maupun di luar negeri. Buat kamu yang ingin berkunjung ke negara-negara maju di Eropa bahan diwajibkan untuk memiliki asuransi perjalanan sebelum mengunjungi negara tersebut.
+
+Adapun manfaat dari memiliki asuransi perjalanan antara lain:
+
+    </string>
+    <string name="text3_artikel2">
+1.Biaya ganti rugi  apabila terjadi kecelakaan ketika kamu melakukan perjalanan
+2.Penggantian biaya pengobatan yang diperlukan ketika kamu menderita penyakit tertentu di saat melakukan perjalanan. (Biaya tanggungan sesuai dengan perjanjian yang tertera di dalam polis asuransi)
+3.Mendapatkan ganti rugi atas barang-barang yang hilang selama kamu melakukan perjalanan
+4.Memperoleh manfaat perlindungan ganda jika terjadi risiko kecelakaan pada pesawat komersial
+5.Memperoleh penggantian biaya kunjungan anggota keluarga
+6.Mendapatkan fasilitas pertanggungan biaya penguburan, kremasi, pemakaman di tempat kematian, maupun hingga pemulangan jenazah atas risiko kematian yang terjadi ketika melakukan perjalanan
+7.Mendapatkan fasilitas bantuan media di seluruh dunia selama 24 jam
+8.Mendapatkan perrlindungan atas rumah yang ditinggalkan
+9.Memperoleh ganti rugi atas kerusakan/kehilangan barang bagasi selama melakukan perjalanan
+10.Dan masih banyak lagi, tergantung produk asuransi perjalanan yang kamu pilih
+    </string>
+
+    <string name="judul_artikel3">Mengintip Sejarah di Museum Perjuangan Bogor</string>
+    <string name="penulis_artikel3">Ojan</string>
+    <string name="text_artikel3">Pada tanggal 26 Oktober 1957, di rumah bupati Bogor saat itu, R.E Abdoellah yang terletak di jl. Panaragan 31, berkumpul puluhan pejuang kemerdekaan se-karesidenan Bogor. Mereka sepakat kalau bangunan yang berada di jalan Cikeumeuh no. 28 (sekarang jl. merdeka) itu dimanfaatkan sebagai museum perjuangan.</string>
+    <string name="text2_artikel3">Pada awal mulanya, bangunan itu adalah sebuah gudang barang milik Wilhelm Sustaff Wissner, yang dimilikinya sejak 7 Juli 1879. Bangunan ini sempat berpindah tangan selama beberapa kali, bahkan pernah digunakan sebagai kantor perusahaan dan gedung persaudaraan Parindra (Partai Indonesia Raya) cabang Bogor pada Juni 1938.
+        Setelah kedatangan militer Jepang, pada 9 Maret 1942 bangunan ini dimanfaatkan menjadi sebuah gudang penyimpanan.</string>
+    <string name="text3_artikel3">Sekitar tahun 1945-an, bangunan ini sering menjadi tempat berkumpulnya laskar rakyat dan beberapa organisasi perjuangan lainnya. Tokoh-tokoh besar seperti Kapten Muslihat, Mayor Oking, dan Margonda pun sering mengadakan pertemuan di gedung ini. Pada tahun 1949, bangunan ini sempat menjadi kantor pemerintah darurat kabupaten,
+        dan di tahun 1952 pernah digunakan menjadi sebuah Sekolah Rakjat atau SR.</string>
+    <string name="text4_artikel3">Pelantikan dewan pengurus Yayasan Museum Perjoangan Bogor dilakukan pada tanggal 10 November 1957. Dalam kesempatan tersebut, istri Kapten Muslihat, Kartinah Muslihat berkenan melantik para pengurus yayasan tersebut. Tidak berapa lama, muncul surat keputusan Pelaksana Kuasa Militer Daerah Res. Inf 8/III-No.Kpts/3/7/PKM/57 yang isinya tentang arahan kepada para pengurus yayasan untuk segera mempersiapkan dan
+        mengusahakan agar gedung Museum Perjoangan bisa segera diwujudkan dan diresmikan pada tanggal 17 Agustus 1958.</string>
+
+
+    <string name="judul_artikel4">Bukan Cuma Songkran, Ini 6 Festival di Bangkok yang Seru</string>
+    <string name="penulis_artikel4">Ojan</string>
+    <string name="text1_artikel4">Thailand sungguh lekat akan tradisi dan kebudayaan! Kata-kata ini tentu sangat cocok menggambarkan negara gajah putih ini. Mulai dari sisi etnik, adat, hingga perayaan yang diselenggarakan di sana sangat menarik untuk disaksikan, terutama bagi kita traveller yang haus akan pemandangan baru nan eksotis.
+
+Nah tahukah kamu, liburan di sini nggak cuma sekedar pelesir untuk belanja atau santap kuliner saja, kamu juga bisa merasakan keseruan festival/event yang rutin diadakan tiap periode tertentu!
+
+Thailand merupakan negara yang terkenal menjunjung tinggi hari momen penting dan selebrasi yang meriah dari masyarakatnya. Banyak sekali acara perayaan yang rutin diselenggarakan dalam setahun, sebut saja festival yang paling terkenal di sana, Water Festival, Songkran.</string>
+    <string name="text2_artikel4">Dalam ajang ini, semua warga dapat berkumpul dan bermain air sepuasnya. Bahkan bisa sambil mengguyur teman dengan ember besar sepuasnya. Puas banget, kan?
+
+Buat kamu yang ingin berlibur ke Bangkok, coba sesuaikan waktu liburanmu dengan jadwal beberapa perayaan di sana. Hitung-hitung, aktivitas liburanmu bisa semakin lengkap dan seru, bisa dapat jelajah tempat wisata, tempat hiburan, kuliner, hingga seru-seruan di perayaan rutin Bangkok. Seru, kan?</string>
+
+    <string name="text3_artikel4">
+        Teriknya matahari jadi cuaca paling menyenangkan di Bangkok saat mengikuti berbagai perayaan yang rutin diadakan setahun sekali. Justru, kamu akan berharap tidak hujan kalau tujuanmu kesini untuk menikmati festival di sana. Nah, catat nama-nama festival beserta waktu perayaannya ini, ya!
+    </string>
+
+    <string name="text4_artikel4">
+        Tahukah kamu bahwa air dipercaya sebagai media untuk pembersihan diri di Thailand? Maka tak heran jika negara ini punya festival air yang kini sudah dikenal oleh dunia. Bahkan hampir setiap kota di negara Thailand pasti rutin mengadakan acara ini. Namun yang lebih berkesan dan selalu diincar oleh tiap wisatawan ada di kota Bangkok, Chiang Mai, dan Phuket.
+
+Festival Songkran diadakan pada tiap bulan April, tepatnya pada tanggal 13-15 April setiap tahunnya. Di sinilah musim di mana matahari tengah terik-teriknya menyinari negara yang lekat akan unsur budaya dan agama ini. Nah, dalam ajang ini, ada berbagai kegiatan yang dilakukan oleh warga setempat, yaitu mencuci patung Buddha, memberikan sajian makanan ke para biksu, melepaskan burung dan ikan, dan bermain air.
+
+Biasanya, air yang digunakan berasal dari air bekas mencuci patung Buddha yang dipercaya akan memberikan berkat dan keberuntungan di tahun yang baru. Jadi, sambil mengikuti tradisi, kamu juga bisa seru-seruan bermain air dengan banyak cara, bisa sambil memakai pistol air, mengguyur dengan ember sesukanya, hingga dicipratkan langsung oleh belalai gajah di sana. Seru, kan!
+    </string>
+
+    <string name="judul_artikel5">Nama</string>
+    <string name="penulis_artikel5">Ojan</string>
+
+    // LAIN LAIN
+    <string name="informasiobjekwisata">Informasi Objek Wisata</string>
+    <string name="foto">Foto</string>
+    <string name="terdekat">Terdekat Dari Objek Wisata</string>
+    <string name="rute">Rute Menuju Lokasi</string>
+    <string name="daristasiun">Dari Stasiun Bogor :</string>
+    <string name="dariterminal">Dari Terminal Baranangsiang : </string>
+
+    <string name="text_panjang">Lorem ipsum dolor sit amet, nisl homero labores an sea. Constituam signiferumque pri cu. Nam id fabulas legendos, vide maluisset mei ut. Accusam detracto suscipiantur an eam, vix eu noster prompta tractatos. Bonorum civibus probatus no est.
+Duis timeam admodum sed ad, duo an omnis exerci inimicus, paulo clita facilisis in vel. Ullum voluptatum nam ei, pri etiam soluta antiopam in. Te vide aeque honestatis pro, dolorum petentium deseruisse pri ad, qui erroribus comprehensam ne. Per sumo audiam ad, viderer diceret commune ius an. Vim id quando prodesset, et putent iisque persecuti eam.
+Ex mazim nihil urbanitas usu. No est dolorem delectus molestiae, sed ne legendos adolescens, eu vim nostrud nonumes. Sadipscing definitiones sit no, mei ex alii reformidans definitionem. Brute iuvaret voluptatibus id duo. Id nam debet vidisse complectitur, vis te fuisset intellegam. Duo error suscipiantur at, alia forensibus et has.
+Te mea aliquip patrioque, albucius nominavi ea eos, aliquid fuisset ad has. Aperiri utroque nam ad, sea no primis interesset. Enim reque debitis an per, per sumo tollit instructior ut. Ius at iudicabit splendide, duo placerat repudiare incorrupte in, in sit noster omnesque. Cu facer mundi abhorreant vel, nec ad evertitur quaerendum.
+Te pro doming recusabo intellegat. Sale paulo oratio sit no, ex nonumes tacimates mel. Cum repudiare assentior omittantur ei. Modus epicuri ex quo, cum tota harum zril an. At eos dicant comprehensam. Ea pro invidunt aliquando incorrupte, quodsi tibique in sea, cibo essent habemus vis te.</string>
+    <string name="hubungi_saya_sekarang">Hubungi Saya Sekarang</string>
+
+    <string name="create_account"><font color="#00ff00">text</font></string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="back_to_login">Back to Login</string>
+
+
+</resources>
