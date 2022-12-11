@@ -1,2 +1,4 @@
 # Jelajah-Indonesia
-Aplikasi Ini Merupakan salah satu aplikasi pariwisata yang membantu wisatawan dalam mencari pemandu wisata secara cepat dan tepat
+This application is my final assignment as a D3 student at UPN Veteran Jakarta.
+
+Enjoy my code :)
